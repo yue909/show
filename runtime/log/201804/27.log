@@ -1,0 +1,2041 @@
+---------------------------------------------------------------
+[ 2018-04-27T17:57:32+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.028002s][吞吐率：35.71req/s] [内存消耗：1,710.70kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Mws\Model\MarketplaceWebServiceOrders_Model' not found[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\Model\MarketplaceWebServiceOrders_Model_GetOrderRequest.php:40]
+---------------------------------------------------------------
+[ 2018-04-27T17:57:45+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,664.52kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]main(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\Model/../Model.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\Model\MarketplaceWebServiceOrders_Model_GetOrderRequest.php:24]
+---------------------------------------------------------------
+[ 2018-04-27T17:57:57+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,664.52kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]main(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\Model/../Model.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\Model\MarketplaceWebServiceOrders_Model_GetOrderRequest.php:24]
+---------------------------------------------------------------
+[ 2018-04-27T17:58:13+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.027001s][吞吐率：37.04req/s] [内存消耗：1,706.84kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Mws\Model\Model' not found[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\Model\MarketplaceWebServiceOrders_Model_GetOrderRequest.php:40]
+---------------------------------------------------------------
+[ 2018-04-27T18:02:15+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,642.86kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\Model\MarketplaceWebServiceOrders_Model_GetOrderRequest.php:41]
+---------------------------------------------------------------
+[ 2018-04-27T18:02:21+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.023002s][吞吐率：43.47req/s] [内存消耗：1,664.73kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-27T18:05:43+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：1,664.73kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-27T18:05:44+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.024001s][吞吐率：41.67req/s] [内存消耗：1,664.73kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-27T18:07:08+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：1,702.29kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: result[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:54]
+---------------------------------------------------------------
+[ 2018-04-27T18:07:12+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,687.32kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-27T18:07:22+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.031001s][吞吐率：32.26req/s] [内存消耗：1,723.98kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetServiceStatus()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:57]
+---------------------------------------------------------------
+[ 2018-04-27T18:09:18+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：1,331.79kb] [文件加载：40]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'public' (T_PUBLIC)[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:89]
+---------------------------------------------------------------
+[ 2018-04-27T18:09:36+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,331.79kb] [文件加载：40]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'public' (T_PUBLIC)[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:89]
+---------------------------------------------------------------
+[ 2018-04-27T18:09:48+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：1,728.66kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetServiceStatus()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:10:24+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：1,728.57kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetOrder()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:10:25+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,728.57kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetOrder()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:10:26+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,755.36kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetOrder()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:10:26+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：1,728.57kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetOrder()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:10:43+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,728.49kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetOrder()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:11:40+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,728.49kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetOrder()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:12:14+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.031001s][吞吐率：32.26req/s] [内存消耗：1,728.49kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\index\controller\invokeGetOrder()[D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php:56]
+---------------------------------------------------------------
+[ 2018-04-27T18:12:28+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：1,739.36kb] [文件加载：54]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::getOrder(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Model/GetOrderRequest.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:69]
+---------------------------------------------------------------
+[ 2018-04-27T18:13:11+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：1,716.25kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::getOrder(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Model/GetOrderRequest.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:69]
+---------------------------------------------------------------
+[ 2018-04-27T18:18:56+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.043002s][吞吐率：23.25req/s] [内存消耗：1,657.91kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Interface 'Mws\MarketplaceWebServiceOrders_Interface' not found[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:30]
+---------------------------------------------------------------
+[ 2018-04-27T18:22:31+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,717.19kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::getOrder(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Model/GetOrderRequest.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:69]
+---------------------------------------------------------------
+[ 2018-04-27T18:22:38+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：1,717.19kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::getOrder(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Model/GetOrderRequest.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:69]
+---------------------------------------------------------------
+[ 2018-04-27T18:23:49+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.967055s][吞吐率：1.03req/s] [内存消耗：1,719.71kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::_httpPost(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Exception.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:664]
+---------------------------------------------------------------
+[ 2018-04-27T18:24:24+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.110006s][吞吐率：9.09req/s] [内存消耗：1,719.29kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::_httpPost(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Exception.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:665]
+---------------------------------------------------------------
+[ 2018-04-27T18:24:46+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.106006s][吞吐率：9.43req/s] [内存消耗：1,718.91kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::_httpPost(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Exception.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:666]
+---------------------------------------------------------------
+[ 2018-04-27T18:24:47+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.109006s][吞吐率：9.17req/s] [内存消耗：1,718.91kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::_httpPost(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Exception.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:666]
+---------------------------------------------------------------
+[ 2018-04-27T18:24:47+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.102006s][吞吐率：9.80req/s] [内存消耗：1,718.91kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::_httpPost(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Exception.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:666]
+---------------------------------------------------------------
+[ 2018-04-27T18:25:14+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.120007s][吞吐率：8.33req/s] [内存消耗：1,710.35kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]SSL certificate problem: unable to get local issuer certificate[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:670]
+---------------------------------------------------------------
+[ 2018-04-27T18:27:21+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.543031s][吞吐率：1.84req/s] [内存消耗：1,725.78kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::_extractResponseHeaderMetadata(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Model/ResponseHeaderMetadata.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:784]
+---------------------------------------------------------------
+[ 2018-04-27T18:28:01+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.431025s][吞吐率：2.32req/s] [内存消耗：1,725.45kb] [文件加载：54]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Mws\MarketplaceWebServiceOrders_Client::_reportAnyErrors(): Failed opening required 'D:\phpstudy\PHPTutorial\WWW\show\extend\Mws/Exception.php' (include_path='.;C:\php\pear;../../.')[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:602]
+---------------------------------------------------------------
+[ 2018-04-27T18:28:16+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.388022s][吞吐率：2.58req/s] [内存消耗：1,717.61kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:603]
+---------------------------------------------------------------
+[ 2018-04-27T18:28:37+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.381022s][吞吐率：2.62req/s] [内存消耗：1,716.80kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:603]
+---------------------------------------------------------------
+[ 2018-04-27T18:32:24+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.396023s][吞吐率：2.53req/s] [内存消耗：1,717.25kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:603]
+---------------------------------------------------------------
+[ 2018-04-27T18:32:33+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.387022s][吞吐率：2.58req/s] [内存消耗：1,717.25kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:603]
+---------------------------------------------------------------
+[ 2018-04-27T18:44:15+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.408023s][吞吐率：2.45req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T18:46:19+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.382021s][吞吐率：2.62req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T18:53:51+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.382021s][吞吐率：2.62req/s] [内存消耗：1,714.04kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T18:53:52+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.381021s][吞吐率：2.62req/s] [内存消耗：1,714.04kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T18:55:28+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.383021s][吞吐率：2.61req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T18:56:24+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.386022s][吞吐率：2.59req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T18:57:43+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.385022s][吞吐率：2.60req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:05:53+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.381022s][吞吐率：2.62req/s] [内存消耗：1,714.04kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:05:55+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.375021s][吞吐率：2.67req/s] [内存消耗：1,714.04kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:07:30+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.371021s][吞吐率：2.70req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:09:56+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.391022s][吞吐率：2.56req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:35+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.368021s][吞吐率：2.72req/s] [内存消耗：1,746.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:36+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.385022s][吞吐率：2.60req/s] [内存消耗：1,746.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:36+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.369022s][吞吐率：2.71req/s] [内存消耗：1,746.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:36+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.369021s][吞吐率：2.71req/s] [内存消耗：1,746.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:37+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.383022s][吞吐率：2.61req/s] [内存消耗：1,746.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:37+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.379022s][吞吐率：2.64req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:38+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.367021s][吞吐率：2.72req/s] [内存消耗：1,746.38kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:39+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.379021s][吞吐率：2.64req/s] [内存消耗：1,746.38kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:10:39+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.374021s][吞吐率：2.67req/s] [内存消耗：1,714.04kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:14:22+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.390022s][吞吐率：2.56req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:14:24+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.381022s][吞吐率：2.62req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:15:59+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.380022s][吞吐率：2.63req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:16:20+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.378022s][吞吐率：2.65req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:16:29+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.401023s][吞吐率：2.49req/s] [内存消耗：1,714.40kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'cookie' => 'Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189130,1524447369,1524481725,1524702765; usermember=admin; PHPSESSID=56k2iotsop2goheb7igu4279b7; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1524812129',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]
+---------------------------------------------------------------
+[ 2018-04-27T19:19:26+08:00 ] 127.0.0.1 GET /
+[ info ] show.com/ [运行时间：0.379022s][吞吐率：2.64req/s] [内存消耗：1,714.04kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy\PHPTutorial\WWW\show\public/../application/lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'usermember=admin; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1524189818,1524532715',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'show.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy\PHPTutorial\WWW\show\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]The AWS Access Key Id you provided does not exist in our records.[D:\phpstudy\PHPTutorial\WWW\show\extend\Mws\MarketplaceWebServiceOrders_Client.php:612]

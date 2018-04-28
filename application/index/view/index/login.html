@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+	<form id="loginForm" action="http://www.pss-system.gov.cn:80/sipopublicsearch/wee/platform/wee_security_check" method="post">
+		<div class="input-area">
+			<label class="in-bl" for="account">
+				帐号
+			</label>
+			<input id="j_username" name="j_username" type="text" decode="true" class="form_input_a" style="margin-left:3px;">
+		</div>
+		<div class="input-area">
+			<label class="in-bl" for="password">
+				密码
+			</label>
+				<input id="j_password_show" type="password" class="form_input_a" style="margin-left:3px;">
+				<input type="hidden" decode="true" id="j_password" name="j_password" value="limingyue0312">
+		</div>
+		<div class="input-area captcha-area">
+			<label class="in-bl" for="captcha-input">
+				验证码
+			</label>
+			<input type="hidden" id="j_loginsuccess_url" name="j_loginsuccess_url" value="">
+			<input id="j_validation_code" name="j_validation_code" class="captcha-input">
+			<div class="captcha-img">
+				<img src="{:captcha_src()}" width="120" height="35" onclick="this.src='{:captcha_src()}'">
+			</div>
+		</div>
+		<div>
+			<a href="javascript:void(0)" class="btn btn-login" onclick="login();return false;">登录</a>
+		</div>
+	</form>
+</body>
+</html>
